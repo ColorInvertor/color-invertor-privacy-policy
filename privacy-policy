@@ -1,57 +1,55 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Политика конфиденциальности - Dark Theme for Search Engines</title>
-    <style>
-        body { font-family: Arial, sans-serif; max-width: 800px; margin: 0 auto; padding: 20px; line-height: 1.6; }
-        h1, h2 { color: #333; }
-        ul { padding-left: 20px; }
-    </style>
-</head>
-<body>
-    <h1>Политика конфиденциальности</h1>
-    <p><strong>Дата вступления в силу:</strong> 01.01.2024</p>
+Privacy Policy
+Effective Date: November 5, 2024
 
-    <h2>1. Сбор и использование данных</h2>
-    <p>Наше расширение собирает минимальные анонимные данные для улучшения пользовательского опыта и показа релевантного контента:</p>
-    
-    <h3>Собираемые данные:</h3>
-    <ul>
-        <li><strong>Демографическая информация:</strong> предполагаемый пол и возрастная группа пользователя (определяется на основе анонимных поведенческих паттернов)</li>
-        <li><strong>Статистика использования:</strong> какие функции расширения используются чаще</li>
-        <li><strong>Техническая информация:</strong> тип браузера, версия ОС (для обеспечения совместимости)</li>
-    </ul>
+1. Data Collection and Use
 
-    <h3>Как используем данные:</h3>
-    <ul>
-        <li>Для персонализации визуальных тем и интерфейса</li>
-        <li>Для показа более релевантного контента</li>
-        <li>Для улучшения работы расширения</li>
-        <li>Для анонимной статистики и аналитики</li>
-    </ul>
+Our extension collects minimal anonymous data to improve user experience and provide relevant content.
 
-    <h2>2. Чего мы НЕ собираем</h2>
-    <ul>
-        <li>Личную идентифицирующую информацию (имя, email, телефон)</li>
-        <li>Файлы cookie и данные авторизации</li>
-        <li>Историю просмотров и поисковые запросы</li>
-        <li>Пароли и финансовую информацию</li>
-        <li>Геолокацию и точное местоположение</li>
-    </ul>
+Collected data:
 
-    <h2>3. Хранение и защита данных</h2>
-    <p>Все данные хранятся в анонимизированном виде и не могут быть использованы для идентификации конкретного пользователя. Мы используем стандартные меры безопасности для защиты данных.</p>
+Demographic information: estimated gender and age group (determined based on anonymous behavioral patterns)
 
-    <h2>4. Обмен данными</h2>
-    <p>Мы не продаем и не передаем собранные данные третьим сторонам. Данные могут использоваться исключительно для внутренней аналитики и улучшения работы расширения.</p>
+Usage statistics: which features of the extension are used most frequently
 
-    <h2>5. Согласие</h2>
-    <p>Используя наше расширение, вы соглашаетесь с сбором и использованием данных в соответствии с данной политикой конфиденциальности.</p>
+Technical information: browser type and OS version (to ensure compatibility)
 
-    <h2>6. Изменения в политике</h2>
-    <p>Мы можем периодически обновлять данную политику конфиденциальности. О значительных изменениях будет сообщено через обновления расширения.</p>
+How we use the data:
 
-</body>
-</html>
+To personalize visual themes and interface
+
+To provide more relevant content
+
+To improve the extension’s functionality
+
+For anonymous statistics and analytics
+
+2. What We Do Not Collect
+
+Personally identifiable information (name, email, phone number)
+
+Cookies or authentication data
+
+Browsing history or search queries
+
+Passwords or financial information
+
+Geolocation or precise location data
+
+3. Data Storage and Protection
+
+All data is stored in anonymized form and cannot be used to identify individual users.
+We apply standard security measures to protect all collected data.
+
+4. Data Sharing
+
+We do not sell or share collected data with third parties.
+Data is used solely for internal analytics and to improve the performance of the extension.
+
+5. Consent
+
+By using our extension, you consent to the collection and use of data in accordance with this Privacy Policy.
+
+6. Policy Updates
+
+We may periodically update this Privacy Policy.
+Any significant changes will be communicated through extension updates.
